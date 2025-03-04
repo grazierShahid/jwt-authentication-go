@@ -39,7 +39,7 @@ go install github.com/githubnemo/CompileDaemon
 
 ```env
 PORT=3000
-DB_URL="host=localhost user=postgres password=yourpassword dbname=yourdbname port=5432 sslmode=disable"
+DB="host=localhost user=postgres password=yourpassword dbname=yourdbname port=5432 sslmode=disable"
 SECRET="your-secret-key"
 ```
 
